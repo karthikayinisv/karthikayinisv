@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @karthikayinisv
 Digital Quality Assurance (DQA) System
 Overview
 The DQA System digitalizes the internal quality audit process to replace manual data entry and paper-based forms. This system improves data accuracy, speeds up audit reporting, and makes audit information easily accessible.
@@ -19,8 +18,6 @@ Frontend: HTML, CSS
 Database: (MSSQL DATABASE)
 Getting Started
 Clone the repo:
-bash
-Copy code
 git clone https://github.com/yourusername/DQA-System.git
 Configure database settings.
 Run the application and access it via http://localhost:yourport.
